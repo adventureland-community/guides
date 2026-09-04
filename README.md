@@ -5,6 +5,7 @@ Community-written guides for [Adventure Land](https://adventure.land).
 | Guide | Author | What it covers |
 | --- | --- | --- |
 | [Highly Opinionated Progression Guide](highly-opinionated-progression-guide/) | Drippy | Gear and tactics for every class from first login to end game, plus what to grab during each seasonal event. |
+| [An Anecdotal Guide](an-anecdotal-guide/) | Aria Harper | How upgrading, compounding, drops, party/co-op share and item properties actually behave. |
 
 ## Adding a guide
 
